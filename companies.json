@@ -1,0 +1,11 @@
+{
+  "search_text": "Dublin",
+  "include_keywords": [],
+  "exclude_keywords": ["senior director", "vice president"],
+  "companies": [
+    {"name": "Salesforce", "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site"},
+    {"name": "Workday", "url": "https://workday.wd5.myworkdayjobs.com/Workday"},
+    {"name": "Mastercard", "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers"},
+    {"name": "NVIDIA", "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"}
+  ]
+}
